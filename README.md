@@ -47,7 +47,7 @@ This project recreates the IIElevenLabs AI Creator Pack website, showcasing 15 p
 - **Lazy Loading**: Efficient image loading
 - **Responsive Images**: Optimized for different screen sizes
 
-## 🎮 Interactive Features
+## Interactive Features
 
 ### Card Interactions
 1. **Hover Effects**: 
